@@ -23,7 +23,7 @@ import javax.inject.Singleton
 @Module
 class ApiModule {
 
-    val BASE_URL = "http://13.71.2.75/VTS/api/"
+    val BASE_URL 
 
      @Singleton
      @Provides
